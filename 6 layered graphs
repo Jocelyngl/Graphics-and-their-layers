@@ -100,5 +100,6 @@ names(pie.sales) <- c("Blueberry", "Cherry",
                       "Apple", "Boston Cream", "Other", "Vanilla")
 pie(pie.sales, col = gray(seq(0.3,1.0,length=6))) 
 
-# Exercise: Think about the layers of graphs. Change fonts, orientation, size, etc. 
-# to view how our layers affect our grpahics overall. 
+# Do it yourself: Think about the layers of graphs. Change fonts, orientation, size, etc. 
+# To view how our layers affect our grpahics overall. 
+# Enjoy!
